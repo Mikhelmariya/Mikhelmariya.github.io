@@ -59629,8 +59629,8 @@ s($,"anI","cy",()=>A.ia(A.a97(A.a([1],t.t)).buffer,0,null).getInt8(0)===1?B.H:B.
 s($,"aqt","xd",()=>new A.Mh(A.x(t.N,A.a5("ix"))))
 s($,"aqD","ae6",()=>new A.TC())
 r($,"aqy","ae4",()=>A.a([A.a93("images/twitter.png","https://www.twitter.com/@mikhela65"),A.a93("images/instagram.png","https://www.instagram.com/mikhel_v_kuttickal")],A.a5("u<ne>")))
-r($,"aqz","a4M",()=>{var q="images/twitter.png",p="Linkedln",o="https://www.linkedin.com/in/mikhel-v-kuttickal-24b760218"
-return A.a([A.B4(q,p,o),A.B4(q,p,o),A.B4(q,p,o),A.B4(q,p,o),A.B4(q,p,o)],A.a5("u<B3>"))})
+r($,"aqz","a4M",()=>{var q="images/twitter.png"
+return A.a([A.B4(q,"Resume","https://drive.google.com/file/d/12ZwyIWKRlvMUelpmNFFAEBejm68doVG2/view?usp=sharing"),A.B4(q,"Linkedln","https://www.linkedin.com/in/mikhel-v-kuttickal-24b760218"),A.B4(q,"Certificates","https://drive.google.com/drive/folders/1czcNym8iitFCq5JzP2iDogL1yrl3pCcl?usp=sharing"),A.B4(q,"NLP Thesis","https://drive.google.com/drive/folders/1y_AX7O4ZZTtdF8KEvgb-Rnmo6t_6RJbW?usp=sharing"),A.B4(q,"Computer Vision","https://drive.google.com/file/d/1Jy78naf1OQqmSi40iMR8aDifNHzL5RLO/view?usp=sharing")],A.a5("u<B3>"))})
 s($,"apT","adI",()=>A.el(B.ds,B.h,t.uu))
 s($,"apS","adH",()=>A.el(B.h,B.Ds,t.uu))
 r($,"aoY","ad8",()=>new A.yT(B.KG,B.KF))
